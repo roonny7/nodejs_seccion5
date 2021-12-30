@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/roonny7/node_seccion5#readme",
   "dependencies": {
-    "colors": "^1.4.0"
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.0"
   }
 }
